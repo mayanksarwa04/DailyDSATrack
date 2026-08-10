@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0013-roman-to-integer) |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
 ## Hash Table

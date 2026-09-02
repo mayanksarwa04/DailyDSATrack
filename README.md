@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0169-majority-element) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

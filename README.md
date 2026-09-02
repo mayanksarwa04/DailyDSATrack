@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0013-roman-to-integer) |
 | [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
 |  |
 | ------- |

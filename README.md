@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0013-roman-to-integer) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax

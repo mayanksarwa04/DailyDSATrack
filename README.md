@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0042-trapping-rain-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0643-maximum-average-subarray-i) |
+| [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Manacher
 |  |
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

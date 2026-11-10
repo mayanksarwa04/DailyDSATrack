@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1480-running-sum-of-1d-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1882-process-tasks-using-servers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2747-count-zero-request-servers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->

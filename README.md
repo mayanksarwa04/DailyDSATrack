@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3693-climbing-stairs-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3693-climbing-stairs-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -149,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0643-maximum-average-subarray-i) |
 | [2747-count-zero-request-servers](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

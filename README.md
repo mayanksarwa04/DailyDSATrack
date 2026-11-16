@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0796-rotate-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |

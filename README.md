@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1510-stone-game-iv](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0042-trapping-rain-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/0796-rotate-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Trie
 |  |
 | ------- |

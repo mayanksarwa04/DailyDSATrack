@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3934-smallest-unique-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,4 +264,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mayanksarwa04/DailyDSATrack/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
